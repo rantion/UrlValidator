@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/rantion_format.iml" filepath="$PROJECT_DIR$/rantion_format.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antion_regex.iml" filepath="$PROJECT_DIR$/antion_regex.iml" />
     </modules>
   </component>
 </project>
